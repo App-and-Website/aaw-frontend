@@ -486,6 +486,11 @@ p{
 }
 
 
+.vl-header-area7 .vl-main-menu ul > li .sub-menu {
+    width: 300px;
+}
+
+
 .footer_main{
   padding-top: 80px;
 }
