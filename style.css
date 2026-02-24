@@ -810,7 +810,10 @@ p{
     margin-bottom: 10px;
     font-size: 36px!important;
 }
-
+.map_container iframe{
+    border: 5px solid #fff;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
 
 
 .mv-icon {
