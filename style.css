@@ -883,6 +883,10 @@ p{
     font-size: 18px;
 }
 
+.projectsCards .content-area span{
+   line-height: normal;
+   text-transform: none;
+}
 /* Grid Layout */
 .awv-grid {
     display: grid;
